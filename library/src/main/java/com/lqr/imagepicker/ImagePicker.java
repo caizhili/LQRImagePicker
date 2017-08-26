@@ -7,10 +7,7 @@ import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Environment;
 import android.provider.MediaStore;
-<<<<<<< HEAD
 import android.support.v4.content.FileProvider;
-=======
->>>>>>> eafede028a39cbf6baf5f9231202d4543cb31713
 
 import com.lqr.imagepicker.bean.ImageFolder;
 import com.lqr.imagepicker.bean.ImageItem;
